@@ -3,11 +3,13 @@
  <p align="center">http://www.isip.piconepress.com</p>
 </h2>
 
+<p align="center">
 [![ISIP Banner](https://isip.piconepress.com/images/general/github/isip_resources.jpg)](https://isip.piconepress.com/)
+</p>
 
 <p align="center">What's New</p>
 
-[![IMLD Screenshot](<p align="center"><img src="https://isip.piconepress.com/images/general/github/imld.jpg" alt="An IMLD Screenshot" width="75%" height="75%"></p>)](https://isip.piconepress.com/projects/imld/resources/app/)
+<p align="center">[![IMLD Screenshot](<img src="https://isip.piconepress.com/images/general/github/imld.jpg" alt="An IMLD Screenshot" width="250" height="250">](https://isip.piconepress.com/projects/imld/resources/app/)</p>
 
 **About ISIP**
 
