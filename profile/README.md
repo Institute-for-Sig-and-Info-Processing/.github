@@ -4,14 +4,20 @@
 </h2>
 
 <p align="center">
-<a href="http://www.isip.piconepress.com">
-<img src="https://isip.piconepress.com/images/general/github/isip_resources.jpg" width="512">
-</a>
+ <a href="http://www.isip.piconepress.com">
+  <img src="https://isip.piconepress.com/images/general/github/isip_resources.jpg" width="768">
+ </a>
 </p>
 
-<p align="center">What's New</p>
+<p align="center"><b>What's New</b></p>
 
-<p align="center">[![IMLD Screenshot](<img src="https://isip.piconepress.com/images/general/github/imld.jpg" alt="An IMLD Screenshot" width="250" height="250">](https://isip.piconepress.com/projects/imld/resources/app/)</p>
+Visit our newest version of the ISIP Machine Learning Demo (IMLD) that will teach you the basics of machine learning:
+
+<p align="center">
+ <a href="http://www.isip.piconepress.com/projects/imld/resources/app/">
+  <img src="https://isip.piconepress.com/images/general/github/imld.jpg" width="512">
+ </a>
+</p>
 
 **About ISIP**
 
