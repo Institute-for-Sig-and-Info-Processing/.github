@@ -1,7 +1,8 @@
-<p align="center">
- <h1>The Institute for Signal and Information Processing (ISIP)</h1>
- https://isip.piconepress.com/
-</p>
+
+ <h1>
+  <p align="center">The Institute for Signal and Information Processing (ISIP)</p>
+ https://isip.piconepress.com
+ <h1>
 
 [![ISIP Banner](https://isip.piconepress.com/images/general/github/isip_resources.jpg)](https://isip.piconepress.com/)
 
