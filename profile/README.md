@@ -1,12 +1,11 @@
 <p align="center">
-***The Institute for Signal and Information Processing (ISIP)***
+ <h1>The Institute for Signal and Information Processing (ISIP)***</h1>
+ https://isip.piconepress.com/
 </p>
 
 [![ISIP Banner](https://isip.piconepress.com/images/general/github/isip_resources.jpg)](https://isip.piconepress.com/)
 
-https://isip.piconepress.com/
-
-**What's New**
+<h2>What's New</h2>
 
 [![IMLD Screenshot](https://isip.piconepress.com/images/general/github/imld.jpg)](https://isip.piconepress.com/projects/imld/resources/app/)
 
