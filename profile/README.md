@@ -5,11 +5,9 @@
 
 [![ISIP Banner](https://isip.piconepress.com/images/general/github/isip_resources.jpg)](https://isip.piconepress.com/)
 
-<h2>
-  <p align="center">What's New</p>
-</h2>
+<p align="center">What's New</p>
 
-[![IMLD Screenshot](https://isip.piconepress.com/images/general/github/imld.jpg)](https://isip.piconepress.com/projects/imld/resources/app/)
+[![IMLD Screenshot](<p align="center"><img src="https://isip.piconepress.com/images/general/github/imld.jpg" alt="An IMLD Screenshot" width="75%" height="75%"></p>)](https://isip.piconepress.com/projects/imld/resources/app/)
 
 **About ISIP**
 
