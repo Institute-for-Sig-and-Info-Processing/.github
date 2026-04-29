@@ -1,5 +1,5 @@
 <p align="center">
- <h1>The Institute for Signal and Information Processing (ISIP)***</h1>
+ <h1>The Institute for Signal and Information Processing (ISIP)</h1>
  https://isip.piconepress.com/
 </p>
 
