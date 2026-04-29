@@ -5,7 +5,9 @@
 
 [![ISIP Banner](https://isip.piconepress.com/images/general/github/isip_resources.jpg)](https://isip.piconepress.com/)
 
-<h2>What's New</h2>
+<h2>
+  <p align="center">What's New</p>
+</h2>
 
 [![IMLD Screenshot](https://isip.piconepress.com/images/general/github/imld.jpg)](https://isip.piconepress.com/projects/imld/resources/app/)
 
