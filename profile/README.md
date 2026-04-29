@@ -4,7 +4,7 @@
 </h2>
 
 <p align="center">
-<img src="https://isip.piconepress.com/images/general/github/isip_resources.jpg)" width="1024" heigth="435">(https://isip.piconepress.com/)
+<img src="https://isip.piconepress.com/images/general/github/isip_resources.jpg" width="1024" heigth="435">(https://isip.piconepress.com/)
 </p>
 
 <p align="center">What's New</p>
