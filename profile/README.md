@@ -11,7 +11,7 @@
 
 <p align="center"><b>What's New</b></p>
 
-Visit our newest version of the ISIP Machine Learning Demo (IMLD) that will teach you the basics of machine learning:
+Visit our newest version of the ISIP Machine Learning Demo (IMLD) that will teach you the basics of machine learning. New features include quantum machine learning (QML) tools and some well-known data sets that demonstrate quantum entanglement.
 
 <p align="center">
  <a href="http://www.isip.piconepress.com/projects/imld/resources/app/">
