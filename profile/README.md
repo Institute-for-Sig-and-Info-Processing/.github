@@ -1,4 +1,6 @@
+<p align="center">
 ***The Institute for Signal and Information Processing (ISIP)***
+</p>
 
 [![ISIP Banner](https://isip.piconepress.com/images/general/github/isip_resources.jpg)](https://isip.piconepress.com/)
 
