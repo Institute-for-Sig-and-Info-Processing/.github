@@ -15,7 +15,7 @@ Visit our newest version of the ISIP Machine Learning Demo (IMLD) that will teac
 
 <p align="center">
  <a href="http://www.isip.piconepress.com/projects/imld/resources/app/">
-  <img src="https://isip.piconepress.com/images/general/github/imld.jpg" width="256">
+  <img src="https://isip.piconepress.com/images/general/github/imld.jpg" width="384">
  </a>
 </p>
 
